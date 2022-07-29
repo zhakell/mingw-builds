@@ -36,7 +36,7 @@
 # **************************************************************************
 
 MINGW_W64_BUILDS_VERSION="MinGW-W64-builds-5.0.0"
-MINGW_W64_PKG_STRING="Built by rexp1ty"
+MINGW_W64_PKG_STRING="Built by MinGW-W64 project"
 
 # **************************************************************************
 
